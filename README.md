@@ -18,5 +18,5 @@ My name is Pierre Schiller, I am a 3D Animator & VFX Compositor with 20+ years o
 I’ve also worked as a Blender Foundation Certified Trainer in the last 4 years doing live and online workshops about sculpting, 2d grease pencil animation, and 3D experiences with 360º, AR, and VR for Snapchat and Spark lens filters using Blender.
 
 Check my <a href="https://3dcinetv.com/blog"><strong>BLOG</strong></a> for more information about how I integrate Blender and other software for 2D and 3D workflows.
-You can also ask me more technical-advanced questions in Blender Stack Exchange:
+You can also reach me for more technical-advanced questions in Blender Stack Exchange (Click my stats card below): <br>
 <a href="https://blender.stackexchange.com/users/32538/pierre-schiller"><img src="https://blender.stackexchange.com/users/flair/32538.png" width="208" height="58" alt="profile for Pierre Schiller at Blender Stack Exchange, Q&amp;A for people who use Blender to create 3D graphics, animations, or games" title="profile for Pierre Schiller at Blender Stack Exchange, Q&amp;A for people who use Blender to create 3D graphics, animations, or games"></a>
