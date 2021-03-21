@@ -1,6 +1,9 @@
 ### 3D Animator & VFX compositor @3DCinetv for commercial advertisement,<br>educational videogames, cinema and AR Lens authoring
 ![3DCinetv headbanner](images/3dcinetv_github.jpg)
 
+<a href="https://3dcinetv.com/blog"><strong>BLOG</strong></a> | 
+<a href="https://behance.net/3dcinetv"><strong>PORTFOLIO</strong></a> | <a href="https://vimeo.com/3dcinetv"><strong>REELS</strong></a> | <a href="https://youtube.com.com/activemotionpictures"><strong>YOUTUBE</strong></a> | <a href="https://www.instagram.com/3dcinetv/channel/"><strong>IG TV</strong></a>
+
 - 🔭 I’m currently working on Realtime Stylized Shaders in Blender
 - 🌱 I’m currently learning PCBs DIY and Arduino One
 - 👯 I’m looking to collaborate on 3D avatar facial tracking technical reviews
