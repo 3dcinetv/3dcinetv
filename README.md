@@ -1,4 +1,4 @@
-### 3D Animator & VFX compositor with 20+ years exp. in commercial advertisement, videogames, & cinema VFX 👋
+### 3D Animator & VFX compositor with 20+ years exp. in commercial advertisement, videogames, & cinema VFX 
 
 - 🔭 I’m currently working on Realtime Stylized Shaders in Blender
 - 🌱 I’m currently learning PCBs DIY and Arduino One
