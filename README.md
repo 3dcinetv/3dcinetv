@@ -1,9 +1,4 @@
-### I am a 3D Animator & VFX compositor with 20+ years exp. in commercial advertisement, videogames, & cinema VFX 👋
-
-<!--
-**3dcinetv/3dcinetv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 3D Animator & VFX compositor 👋
 
 - 🔭 I’m currently working on Realtime Stylized Shaders in Blender
 - 🌱 I’m currently learning PCBs DIY and Arduino One
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 3dcinetv(a) gmail (dot) com
 - 🎮 Gaming: GranBlue Fantasy Versus
 - ⚡ Fun fact: Mitocondriac functions are actually driven by RNA
--->
+
