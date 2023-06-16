@@ -5,8 +5,7 @@
 <a href="https://behance.net/3dcinetv"><strong>PORTFOLIO</strong></a> | <a href="https://vimeo.com/3dcinetv"><strong>REELS</strong></a> | <a href="https://youtube.com.com/activemotionpictures"><strong>YOUTUBE</strong></a> | <a href="https://www.instagram.com/3dcinetv/channel/"><strong>IG TV</strong></a>
 
 - 🔭 I’m currently working on Realtime Stylized Shaders in Blender
-- 🌱 I’m currently learning PCBs DIY and Arduino One
-- 👯 I’m looking to collaborate on 3D avatar facial tracking technical reviews
+- 👯 I work with 3D avatar facial tracking in different softwares
 - 🤔 I’m looking for help with PCB flex screens
 - 💬 Ask me about CGI 3D+2D workflow integration
 - 📫 How to reach me: 3dcinetv(a) gmail (dot) com
